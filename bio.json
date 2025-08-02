@@ -12,6 +12,20 @@
           "url": "https://github.com/Shahriarkh"
         }
       ]
+    },
+    {
+      "title": "Open Source Projects",
+      "type": "list",
+      "items": [
+        {
+          "title": "🗺 Strapi Content-Type Explorer",
+          "url": "https://github.com/ShahriarKh/strapi-content-type-explorer"
+        },
+         {
+          "title": "Twemoji Cheatsheet",
+          "url": "https://github.com/ShahriarKh/twemoji-cheatsheet"
+        }
+      ]
     }
   ]
 }
