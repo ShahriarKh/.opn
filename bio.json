@@ -22,8 +22,10 @@
           "url": "https://github.com/ShahriarKh/strapi-content-type-explorer"
         },
          {
-          "title": "Twemoji Cheatsheet",
-          "url": "https://github.com/ShahriarKh/twemoji-cheatsheet"
+          "title": "🥪 Twemoji Cheatsheet",
+          "url": "https://twemoji-cheatsheet.vercel.app",
+          "description": "A super simple cheatsheet to browse Twemojis! Search by name or filter by category (and, or) version and find the emoji you want. Easily grab the unicode, hexcode, download SVG or PNG and get some info about that emoji. 
+           Github: https://github.com/ShahriarKh/twemoji-cheatsheet"
         }
       ]
     }
